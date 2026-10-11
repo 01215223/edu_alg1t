@@ -11,7 +11,7 @@
    *(do obliczenia argumentu liczby z przykładu 1.5 użyć kalkulatora)*
 
 3. Korzystając ze wzoru Moivre'a wyznaczyć
-   * ** $\sin 4x$ i $\cos 4x$ * w zależności od $\sin x$ i $\cos x$.
+   $\sin 4x$ i $\cos 4x$ w zależności od $\sin x$ i $\cos x$.
 
 5. Rozwiązać równania i naszkicować zbiór rozwiązań.
    * **3.1.** $$(z^{4}-16)(z^{2}-4j+3)=0$$
