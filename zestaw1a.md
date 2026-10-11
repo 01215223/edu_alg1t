@@ -1,4 +1,4 @@
-# AlgT Zestaw 1
+# Algebra Zestaw 1
 
 1. Niech $z_1 = 3 + 2j$ oraz $z_2 = 2 - 5j$. Obliczyć:
    * **1.1** $z_1^2 + jz_2$ oraz $\text{Re}(z_1 \cdot z_2)$
