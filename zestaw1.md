@@ -32,7 +32,7 @@
    * **5.6** $|z - 1| = |2jz + 1|$
    * **5.7** $\text{Re}\left(\frac{z + j}{z - j}\right) \le 0$
 
-6. Wyznaczyć argument główny oraz moduł podanych liczb, wykorzystać funkcje $\arcsin$ lub arctg :
+6. Wyznaczyć argument główny oraz moduł podanych liczb, wykorzystać funkcje arcsin lub arctg :
    * **6.1** $z_1 = 1 + 2j$
    * **6.2** $z_2 = 3j - 4$
    * **6.3** $z_3 = 5 - 2j$
