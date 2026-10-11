@@ -1,4 +1,4 @@
-# ALGT ZESTAW 3
+# Algebra Zestaw 3
 
 1. Wyznaczyć pierwiastki wielomianu i zaznaczyć je na płaszczyźnie zespolonej. Określić krotności pierwiastków. Ile jest różnych pierwiastków rzeczywistych? Ile zespolonych?
    - **1.1.** $w(z) = z^{17} + z^{12} - z^7 - z^2$
