@@ -19,7 +19,7 @@
    * **3.3.** $$z^{4}\cdot|z|=-8(\overline{z})^{2}$$
    * **3.4.** $$z^{2}-z=\frac{2j-14}{j+3}$$
    * **3.5.** $$(z-j)^{4}=(\sqrt{3}+j)^{6}$$
-3.6. $$z^{4}=-\overline{z}^{4}$$
+   * **3.6.** $$z^{4}=-\overline{z}^{4}$$
 
 6. Jednym z wierzchołków trójkąta równobocznego jest punkt $5-2j$.
 6.1 Wyznaczyć pozostałe wierzchołki tego trójkąta, jeśli jego środkiem jest punkt $1+2j$.
