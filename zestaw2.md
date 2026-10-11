@@ -1,12 +1,12 @@
 # Algebra Zestaw 2
 
 1. Obliczyć
-1.1. $$\frac{(-2+2\sqrt{3}j)^{21}}{(2-2j)^{26}}$$
-1.2. $$(\frac{2j-4}{j+3})^{101}$$
-1.3. $$\sqrt{7-24j}$$
-1.4. $$\sqrt[4]{3j-\sqrt{3}}$$
-1.5. $$\sqrt[3]{-4+3j}$$
-1.6. $$\sqrt[5]{(1-j\sqrt{3})(2j-2)}$$
+  * **1.1.** $$\frac{(-2+2\sqrt{3}j)^{21}}{(2-2j)^{26}}$$
+  * **1.2.** $$(\frac{2j-4}{j+3})^{101}$$
+  * **1.3.** $$\sqrt{7-24j}$$
+  * **1.4.** $$\sqrt[4]{3j-\sqrt{3}}$$
+  * **1.5.** $$\sqrt[3]{-4+3j}$$
+  * **1.6.** $$\sqrt[5]{(1-j\sqrt{3})(2j-2)}$$
 
 *(do obliczenia argumentu liczby z przykładu 1.5 użyć kalkulatora)*
 
