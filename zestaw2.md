@@ -1,4 +1,4 @@
-# ALGT ZESTAW 2
+# Algebra Zestaw 2
 
 ## 1. Obliczyć
 1.1. $$\frac{(-2+2\sqrt{3}j)^{21}}{(2-2j)^{26}}$$
