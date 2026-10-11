@@ -22,7 +22,7 @@
 3.6. $$z^{4}=-\overline{z}^{4}$$
 
 6. Jednym z wierzchołków trójkąta równobocznego jest punkt $5-2j$.
-Wyznaczyć pozostałe wierzchołki tego trójkąta, jeśli jego środkiem jest punkt $1+2j$.
+6.1 Wyznaczyć pozostałe wierzchołki tego trójkąta, jeśli jego środkiem jest punkt $1+2j$.
 
-7. Wyznaczyć wartości zespolonych funkcji trygonometrycznych:
+8. Wyznaczyć wartości zespolonych funkcji trygonometrycznych:
 $$\cos(j\pi-\pi), \quad \sin(\frac{\pi}{2}+7j)$$
