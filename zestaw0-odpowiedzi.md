@@ -1,6 +1,6 @@
 # Algebra – Zestaw 0 – rozwiązania
 
-> Zadania graficzne (zaznaczanie punktów, półprostych, okręgów i wielokątów) są podane tu w postaci **współrzędnych**, które należy naanieść na kartkę/układ współrzędnych. Dla każdego punktu $P=(\cos\alpha,\sin\alpha)$ półprosta przechodzi przez początek układu i przez $P$, a punkty przecięcia z okręgami o promieniach $2$ i $\sqrt{2}$ mają współrzędne $2P$ i $\sqrt{2}\,P$.
+> Zadania graficzne (zaznaczanie punktów, półprostych, okręgów i wielokątów) są podane tu w postaci **współrzędnych**, które należy nanieść na kartkę/układ współrzędnych. Dla każdego punktu $P=(\cos\alpha,\sin\alpha)$ półprosta przechodzi przez początek układu i przez $P$, a punkty przecięcia z okręgami o promieniach $2$ i $\sqrt{2}$ mają współrzędne $2P$ i $\sqrt{2}\,P$.
 
 ---
 
