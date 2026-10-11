@@ -10,18 +10,19 @@
 
    *(do obliczenia argumentu liczby z przykładu 1.5 użyć kalkulatora)*
 
-3. Korzystając ze wzoru Moivre'a wyznaczyć $\sin 4x$ i $\cos 4x$ w zależności od $\sin x$ i $\cos x$.
+3. Korzystając ze wzoru Moivre'a wyznaczyć
+   * **$\sin 4x$ i $\cos 4x$* w zależności od $\sin x$ i $\cos x$.
 
-4. Rozwiązać równania i naszkicować zbiór rozwiązań.
-  * **3.1.** $$(z^{4}-16)(z^{2}-4j+3)=0$$
-  * **3.2.** $$|z|^{2}+z=7-j$$
-  * **3.3.** $$z^{4}\cdot|z|=-8(\overline{z})^{2}$$
-  * **3.4.** $$z^{2}-z=\frac{2j-14}{j+3}$$
-  * **3.5.** $$(z-j)^{4}=(\sqrt{3}+j)^{6}$$
+5. Rozwiązać równania i naszkicować zbiór rozwiązań.
+   * **3.1.** $$(z^{4}-16)(z^{2}-4j+3)=0$$
+   * **3.2.** $$|z|^{2}+z=7-j$$
+   * **3.3.** $$z^{4}\cdot|z|=-8(\overline{z})^{2}$$
+   * **3.4.** $$z^{2}-z=\frac{2j-14}{j+3}$$
+   * **3.5.** $$(z-j)^{4}=(\sqrt{3}+j)^{6}$$
 3.6. $$z^{4}=-\overline{z}^{4}$$
 
-5. Jednym z wierzchołków trójkąta równobocznego jest punkt $5-2j$.
+6. Jednym z wierzchołków trójkąta równobocznego jest punkt $5-2j$.
 Wyznaczyć pozostałe wierzchołki tego trójkąta, jeśli jego środkiem jest punkt $1+2j$.
 
-6. Wyznaczyć wartości zespolonych funkcji trygonometrycznych:
+7. Wyznaczyć wartości zespolonych funkcji trygonometrycznych:
 $$\cos(j\pi-\pi), \quad \sin(\frac{\pi}{2}+7j)$$
